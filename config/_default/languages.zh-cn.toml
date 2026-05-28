@@ -10,9 +10,9 @@ title = "我思，故我在"
   displayName = "ZH"
 
   [params.author]
-    name   = "eitazhou"
+    name   = "eitazhou10"
     links  = [
-      { github = "https://github.com/eitazhou" },
+      { github = "https://github.com/eitazhou10" },
     ]
 
   [params.homepage]

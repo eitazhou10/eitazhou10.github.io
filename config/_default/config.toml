@@ -1,8 +1,8 @@
 # ─── Hugo 主配置 ───────────────────────────────────────────
-# eitazhou.github.io — "我思，故我在"
+# eitazhou10.github.io — "我思，故我在"
 # 主题: Blowfish  评论: Giscus  语言: 中文
 
-baseURL = "https://eitazhou.github.io/"
+baseURL = "https://eitazhou10.github.io/"
 locale = "zh-CN"
 defaultContentLanguage = "zh-cn"
 title = "我思，故我在"
