@@ -1,0 +1,39 @@
+# ─── Hugo 主配置 ───────────────────────────────────────────
+# eitazhou.github.io — "我思，故我在"
+# 主题: Blowfish  评论: Giscus  语言: 中文
+
+baseURL = "https://eitazhou.github.io/"
+locale = "zh-CN"
+defaultContentLanguage = "zh-cn"
+title = "我思，故我在"
+theme = "blowfish"
+
+# 禁止自动生成 taxonomy（按 section 组织，不用 tags/categories）
+disableKinds = ["taxonomy", "term"]
+
+# 每 Section 的固定链接
+[permalinks]
+  posts   = "/posts/:slug/"
+  honglou = "/honglou/:slug/"
+  books   = "/books/:slug/"
+
+# Markdown 渲染（goldmark）
+[markup.goldmark.renderer]
+  unsafe = true    # 允许 HTML
+
+[markup.highlight]
+  noClasses = false
+
+# 站点地图
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[security]
+  [security.node]
+    [security.node.permissions]
+      allowAddons = ["tailwindcss"]
+      allowChildProcess = ["tailwindcss"]
+      allowWorker = ["tailwindcss"]
+      allowRead = ["."]
+      allowWrite = ["./assets"]

@@ -1,0 +1,33 @@
+#+HUGO_BASE_DIR: ~/blog/
+#+HUGO_SECTION: posts
+#+HUGO_GOLDMARK: t
+#+HUGO_AUTO_SET_LASTMOD: t
+#+OPTIONS: author:nil ^:{}
+#+STARTUP: showall
+
+* 博客文章                                              :@posts:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+
+** 第一首诗
+:PROPERTIES:
+:EXPORT_FILE_NAME: diyishoushi
+:EXPORT_DATE: 2016-11-29
+:EXPORT_HUGO_TAGS: 写诗 离别
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :description "平生所写的第一首诗。"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+author: "周权"
+:END:
+
+履新在即。沪上朋友赋诗一首相送：
+#+BEGIN_VERSE
+鹏举九天再抖擞，身凌白云操自守。
+建功立业冰城时，犹忆江南一壶酒。
+#+END_VERSE
+
+过奖了:-)。不过亲情、热情确是令人难忘。遂附和一首：
+#+BEGIN_VERSE
+江南酒浓情更浓，举杯欢颜稚与翁。
+他日北国共明月，今宵别离入梦中。
+#+END_VERSE
+

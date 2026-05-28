@@ -1,0 +1,57 @@
+# ─── Blowfish 主题参数 ──────────────────────────────────────
+
+# 外观
+colorScheme           = "blowfish"     # blowfish | ocean | forest | slate | ...
+defaultAppearance     = "light"
+autoSwitchAppearance  = true
+
+# 功能开关
+enableSearch          = true
+enableCodeCopy        = true
+enableImageLazyLoading = true
+
+# Header
+[header]
+  layout = "fixed-fill-blur"
+
+# Footer
+[footer]
+  showMenu               = true
+  showCopyright          = true
+  showThemeAttribution   = false
+  showAppearanceSwitcher = true
+  showScrollToTop        = true
+
+# 文章列表
+[list]
+  showTableOfContents = true
+  showBreadcrumbs     = true
+  showSummary         = true
+  groupByYear         = true
+
+# 文章页面
+[article]
+  showDate         = true
+  showDateUpdated  = true
+  showAuthor       = true
+  showReadingTime  = true
+  showTableOfContents = true
+  showTaxonomies   = false
+  showPagination   = true
+  showComments     = true     # Giscus 评论
+
+# ─── 导航菜单 ──────────────────────────────────────────────
+[[main]]
+  name  = "博客"
+  pageRef  = "posts"
+  weight   = 10
+
+[[main]]
+  name  = "红楼文摘"
+  pageRef  = "honglou"
+  weight   = 20
+
+[[main]]
+  name  = "电子书籍"
+  pageRef  = "books"
+  weight   = 30

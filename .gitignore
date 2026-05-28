@@ -1,0 +1,15 @@
+# Hugo
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*~
+*.swp
+*.swo
+.idea/
+.vscode/

@@ -1,0 +1,14 @@
+#+HUGO_BASE_DIR: ~/blog/
+#+HUGO_SECTION: books
+#+HUGO_GOLDMARK: t
+#+HUGO_AUTO_SET_LASTMOD: t
+#+OPTIONS: author:nil ^:{}
+#+STARTUP: showall
+
+* 电子书籍                                              :@books:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: books
+:END:
+
+<!-- 电子书籍作为二级子树添加在下面 -->
+

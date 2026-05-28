@@ -1,0 +1,21 @@
+# ─── 中文语言配置 ───────────────────────────────────────────
+
+locale = "zh-CN"
+label = "中文"
+weight = 1
+title = "我思，故我在"
+
+[params]
+  dateFormat = "2006-01-02"
+  displayName = "ZH"
+
+  [params.author]
+    name   = "eitazhou"
+    links  = [
+      { github = "https://github.com/eitazhou" },
+    ]
+
+  [params.homepage]
+    layout = "profile"         # 首页布局: profile | hero | card | background
+    showRecent = true
+    showRecentItems = 6
