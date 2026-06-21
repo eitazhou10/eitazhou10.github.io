@@ -6,12 +6,23 @@
 /* ── 正文基础 ── */
 .article-content {
   color: #555 !important;
-  font-family: "fira sans", Helvetica, Arial, Verdana, Tahoma,
-    "WenQuanYi Micro Hei", "Microsoft YaHei", SimSun,
+  font-family: "fira sans", Helvetica, sans, Arial, Verdana,
+    Tahoma, "WenQuanYi Micro Hei", "Microsoft YaHei", SimSun,
     "Songti SC", STFangsong, STXihei, Heiti, sans-serif;
   font-size: 17pt !important;
   line-height: 200% !important;
   text-align: justify !important;
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* 确保正文段落也继承字体（覆盖 Tailwind prose 的作用域限制） */
+.article-content p,
+.article-content li,
+.article-content div:not(.verse) {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
 }
 
 /* ── 标题 ── */
