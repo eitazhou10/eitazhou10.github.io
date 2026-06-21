@@ -19,3 +19,4 @@ title = "我思，故我在"
     layout = "profile"         # 首页布局: profile | hero | card | background
     showRecent = true
     showRecentItems = 6
+    mainSections = ["posts", "honglou"]
