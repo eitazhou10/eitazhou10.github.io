@@ -8,6 +8,7 @@ title = "我思，故我在"
 [params]
   dateFormat = "2006-01-02"
   displayName = "ZH"
+  mainSections = ["posts", "honglou"]
 
   [params.author]
     name   = "eitazhou10"
@@ -19,4 +20,3 @@ title = "我思，故我在"
     layout = "profile"         # 首页布局: profile | hero | card | background
     showRecent = true
     showRecentItems = 6
-    mainSections = ["posts", "honglou"]
