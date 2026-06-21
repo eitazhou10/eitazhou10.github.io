@@ -1,0 +1,155 @@
+/* ─────────────────────────────────────────────────────────
+   Article Content: worg.css 风格覆盖
+   保留 Blowfish 整体布局，仅更改文章正文区排版
+   ───────────────────────────────────────────────────────── */
+
+/* ── 正文基础 ── */
+.article-content {
+  color: #555 !important;
+  font-family: "fira sans", Helvetica, Arial, Verdana, Tahoma,
+    "WenQuanYi Micro Hei", "Microsoft YaHei", SimSun,
+    "Songti SC", STFangsong, STXihei, Heiti, sans-serif;
+  font-size: 17pt !important;
+  line-height: 200% !important;
+  text-align: justify !important;
+}
+
+/* ── 标题 ── */
+.article-content h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+    Helvetica, STKaiti, SimSun, serif !important;
+  font-size: 2.1em !important;
+  padding: 0 0 30px 0 !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  font-weight: bold !important;
+  border-bottom: none !important;
+}
+
+.article-content h2 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+    Helvetica, STKaiti, SimSun, serif !important;
+  font-size: 1.45em !important;
+  line-height: 1.4 !important;
+  padding: 10px 0 10px 0 !important;
+  color: #76319F !important;
+  border-bottom: 1px solid #ddd !important;
+}
+
+.article-content h3 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+    Helvetica, STKaiti, SimSun, serif !important;
+  font-size: 1.3em !important;
+  color: grey !important;
+  margin-left: 0.6em !important;
+}
+
+.article-content h4 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino,
+    Helvetica, STKaiti, SimSun, serif !important;
+  font-size: 1.2em !important;
+  margin-left: 1.2em !important;
+  color: #A5573E !important;
+}
+
+/* ── 链接 ── */
+.article-content a {
+  text-decoration: none !important;
+  border-bottom: 1px dashed #76319F !important;
+  padding: 1px !important;
+  color: black !important;
+  font-weight: inherit !important;
+}
+
+.article-content a:hover {
+  color: #76319F !important;
+}
+
+/* ── 引用块 ── */
+.article-content blockquote {
+  font-family: STKaiti, Helvetica, Arial, Verdana, Tahoma,
+    STFangsong, STXihei, "Songti SC", "Microsoft YaHei",
+    Heiti, sans-serif !important;
+  font-size: 17pt !important;
+  color: gray !important;
+  border-left: none !important;
+  padding: 0 0 0 1em !important;
+  margin: 1em 0 !important;
+  background: transparent !important;
+}
+
+/* ── 诗句 ── */
+.article-content .verse,
+.article-content p.verse {
+  font-family: STKaiti, Helvetica, Arial, Verdana, Tahoma,
+    STFangsong, STXihei, "Songti SC", "Microsoft YaHei",
+    Heiti, sans-serif !important;
+  font-size: 17pt !important;
+  color: gray !important;
+  margin-left: 3% !important;
+}
+
+/* ── 代码 ── */
+.article-content code {
+  font-size: 90% !important;
+  color: black !important;
+  border: 1px solid #DEDEDE !important;
+  padding: 0px 0.2em !important;
+  background-color: transparent !important;
+  font-weight: inherit !important;
+}
+
+.article-content pre {
+  font-family: Droid Sans Mono, Monaco, Consolas,
+    "Lucida Console", monospace !important;
+  color: black !important;
+  font-size: 90% !important;
+  background-color: #ffffff !important;
+  padding: 1.2em !important;
+  border: 2px solid #dddddd !important;
+  overflow: auto !important;
+  border-radius: 0 !important;
+}
+
+.article-content pre code {
+  border: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+/* ── 图片 ── */
+.article-content img {
+  box-shadow: 0 0 10px #555 !important;
+  border-radius: 6px !important;
+  margin: 10px auto !important;
+  display: block !important;
+}
+
+/* ── 表格 ── */
+.article-content table {
+  border: dashed LightGrey !important;
+  border-width: 1px 0 0 1px !important;
+  box-shadow: 0 0 1em #777777 !important;
+  -webkit-box-shadow: 0 0 1em #777777 !important;
+  -moz-box-shadow: 0 0 1em #777777 !important;
+  border-radius: 0 !important;
+}
+
+.article-content th,
+.article-content td {
+  border: dashed LightGrey !important;
+  border-width: 0 1px 1px 0 !important;
+  padding: 10px !important;
+}
+
+/* ── 列表 ── */
+.article-content li {
+  margin: 0.4em !important;
+}
+
+/* ── 分割线 ── */
+.article-content hr {
+  border: none !important;
+  border-top: 1px dashed #ddd !important;
+  margin: 2em 0 !important;
+}
