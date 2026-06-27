@@ -1,7 +1,7 @@
 +++
 title = "第一首诗"
 date = 2016-11-29
-lastmod = 2026-05-29T01:39:59+08:00
+lastmod = 2026-06-27T22:56:02+08:00
 tags = ["写诗", "离别"]
 categories = ["posts"]
 draft = false
