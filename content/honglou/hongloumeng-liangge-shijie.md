@@ -16,9 +16,16 @@ description = "余英时关于红学研究的经典作品。"
 
 </div>
 
-{{< figure src="/ox-hugo/dgy_0.jpg" caption="<span class=\"figure-number\">Figure 1: </span>大观园图(局部)  (清) 无名氏" width="600" height="400" >}}
-
-{{< figure src="/ox-hugo/dgy_3.jpg" caption="<span class=\"figure-number\">Figure 2: </span>大观园(上海)" width="600" height="400" >}}
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <figure style="flex: 1; min-width: 300px;">
+    <img src="/ox-hugo/dgy_0.jpg" alt="大观园图(局部) (清) 无名氏" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
+    <figcaption style="text-align: center; margin-top: 8px; color: #555;">大观园图(局部) (清) 无名氏</figcaption>
+  </figure>
+  <figure style="flex: 1; min-width: 300px;">
+    <img src="/ox-hugo/dgy_3.jpg" alt="大观园(上海)" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
+    <figcaption style="text-align: center; margin-top: 8px; color: #555;">大观园(上海)</figcaption>
+  </figure>
+</div>
 
   曹雪芹在[《红楼梦》](https://zh.wikisource.org/zh-hans/%E8%84%82%E7%A1%AF%E9%BD%8B%E9%87%8D%E8%A9%95%E7%9F%B3%E9%A0%AD%E8%A8%98) 里创造了两个鲜明而对比的世界。这两个世界，我想分别叫它们作
 **“乌托邦的世界”** 和 **“现实的世界”** 。这两个世界，落实到《红楼梦》这部书中便是大观园
