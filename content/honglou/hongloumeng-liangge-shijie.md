@@ -1,7 +1,7 @@
 +++
 title = "红楼梦的两个世界"
 date = 2020-04-10
-lastmod = 2026-06-27T23:31:02+08:00
+lastmod = 2026-06-27T23:46:11+08:00
 tags = ["红楼梦", "大观园", "余英时", "红学"]
 categories = ["honglou"]
 draft = false
@@ -18,11 +18,11 @@ description = "余英时关于红学研究的经典作品。"
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 300px;">
-    <img src="/ox-hugo/dgy_0.jpg" alt="大观园图(局部) (清) 无名氏" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
+    <img src="/img/rcd/dgy_0.jpg" alt="大观园图(局部) (清) 无名氏" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
     <figcaption style="text-align: center; margin-top: 8px; color: #555;">大观园图(局部) (清) 无名氏</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 300px;">
-    <img src="/ox-hugo/dgy_3.jpg" alt="大观园(上海)" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
+    <img src="/img/rcd/dgy_3.jpg" alt="大观园(上海)" style="width: 100%; height: auto; box-shadow: 0 0 10px #555; border-radius: 6px;" />
     <figcaption style="text-align: center; margin-top: 8px; color: #555;">大观园(上海)</figcaption>
   </figure>
 </div>
@@ -343,7 +343,7 @@ description = "余英时关于红学研究的经典作品。"
 这正证实我们上面所说的，作者是借着院字的布置来表示诸钗和宝玉之间的关系。因而间接地说明理想世界的内在结构。脂评所谓“通部情案皆必从石兄挂号”，便要在这
 些地方去认识。而园中之水流于怡红院之后，仍从墙下出去，又正关合葬花时黛王所说的，这里的水干净，只一流出去。就是脏的臭的了。
 
-{{< figure src="/ox-hugo/dgy_1.jpg" caption="<span class=\"figure-number\">Figure 3: </span>理想中的大观园" title="理想中的大观园" width="800" height="400" >}}
+{{< figure src="/ox-hugo/dgy_1.jpg" caption="<span class=\"figure-number\">Figure 1: </span>理想中的大观园" title="理想中的大观园" width="800" height="400" >}}
 
   我们一直强调，《红楼梦》的两个世界是干净和肮脏的强烈对照。上面无数例证都可以在概念上支持我们关于这个基本分别的看法。但是最后我还必须要解答一个具体的
 经验性的问题：即大观园中的生活是不是真的干净？如果大观园跟外面的现实世界同样的肮脏，那么我们所强调的两个世界的对照，依然难免捕风捉影之讥。关于这个问题
@@ -400,9 +400,10 @@ description = "余英时关于红学研究的经典作品。"
 >
 > 我的这三丫头却好。只有两个玉儿可恶，回来吃醉了，咱们偏往他们屋里闹去。[^fn:72]
 
-这里的“两个玉儿”当然是指宝玉和黛玉。但作者忽然添写此一段文字是有重要作用的，就是为次一回“刘姥姥醉卧冶红院”作伏笔。宝玉最嫌嫁了汉子的老女人肮脏，而作者
-就偏偏安排了刘姥姥之醉卧在他的床上，而且弄得满屋子“酒屁臭气”[^fn:73]。这明明是有意用现实世界的丑恶和肮脏来点污理想世界的美好和清洁。同回刘姥姥在栊翠庵吃茶，
-也同样是为了衬出妙玉洁癖的特笔[75]。所以八十回后的妙玉，结局最为不堪。她的册子上说
+这里的“两个玉儿”当然是指宝玉和黛玉。但作者忽然添写此一段文字是有重要作用的，就是为次一回“刘姥姥醉卧
+冶红院”作伏笔。宝玉最嫌嫁了汉子的老女人肮脏，而作者就偏偏安排了刘姥姥之醉卧在他的床上，而且弄得满屋
+子“酒屁臭气”[^fn:73]。这明明是有意用现实世界的丑恶和肮脏来点污理想世界的美好和清洁。同回刘姥姥在栊翠庵吃
+茶，也同样是为了衬出妙玉洁癖的特笔[75]。所以八十回后的妙玉，结局最为不堪。她的册子上说
 
 <div class="verse">
 
@@ -419,7 +420,7 @@ description = "余英时关于红学研究的经典作品。"
 净人物，而在理想世界破灭以后竟流入现实世界中最龌龊角落上去。仅此一端即可推想作者对两个世界的处理是采
 用了多么强烈对照的笔法！
 
-  总结地说，《红楼梦》这部小说主要是描写一个理想世界的兴起、发展及其最后的幻灭。但这个理想世界自始就
+总结地说，《红楼梦》这部小说主要是描写一个理想世界的兴起、发展及其最后的幻灭。但这个理想世界自始就
 和现实世界是分不开的：大观园的干净本来就建筑在会芳园的肮脏基础之上。并且在大观园的整个发展和破败的过
 程之中，它也无时不在承受着园外一切肮脏力量的冲击。干净既从肮脏而来，最后又无可奈何地要回到肮脏去。在
 我看来，这是《红楼梦》的悲剧的中心意义，也是曹雪芹所见到的人世间的最大的悲剧！
