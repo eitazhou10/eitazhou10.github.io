@@ -1,7 +1,7 @@
 +++
 title = "红楼梦的两个世界"
 date = 2020-04-10
-lastmod = 2026-06-27T23:56:56+08:00
+lastmod = 2026-06-28T00:04:51+08:00
 tags = ["红楼梦", "大观园", "余英时", "红学"]
 categories = ["honglou"]
 draft = false
@@ -16,10 +16,10 @@ description = "余英时关于红学研究的经典作品。"
 
 </div>
 
-<div style="width: 75%; margin: 0 auto 150pt auto; display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 50px; justify-content: center; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 300px; height: 320px; margin: 0;">
     <img src="/img/rcd/dgy_0.jpg" alt="大观园图(局部) (清) 无名氏" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 0 10px #555; border-radius: 6px;" />
-    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园图(理想世界)</figcaption>
+    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园(理想世界)</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 300px; height: 320px; margin: 0;">
     <img src="/img/rcd/dgy_3.jpg" alt="大观园(上海)" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 0 10px #555; border-radius: 6px;" />
@@ -27,7 +27,7 @@ description = "余英时关于红学研究的经典作品。"
   </figure>
 </div>
 
-  曹雪芹在[《红楼梦》](https://zh.wikisource.org/zh-hans/%E8%84%82%E7%A1%AF%E9%BD%8B%E9%87%8D%E8%A9%95%E7%9F%B3%E9%A0%AD%E8%A8%98) 里创造了两个鲜明而对比的世界。这两个世界，我想分别叫它们作
+  曹雪芹在[《红楼梦》](https://www.gushiwen.cn/guwen/book.aspx?id=46653FD803893E4F3F8B9229F3CD9433) 里创造了两个鲜明而对比的世界。这两个世界，我想分别叫它们作
 **“乌托邦的世界”** 和 **“现实的世界”** 。这两个世界，落实到《红楼梦》这部书中便是大观园
 的世界和大观园以外的世界。作者曾用各种不同的象征告诉我们这两个世界的分别何在。譬
 如说， “清”与“浊”， “情”与“淫”， “假” 与 “真”以及风月宝鉴的反面与正面。我们可以
