@@ -1,7 +1,7 @@
 +++
 title = "红楼梦的两个世界"
 date = 2020-04-10
-lastmod = 2026-06-27T23:49:57+08:00
+lastmod = 2026-06-27T23:53:50+08:00
 tags = ["红楼梦", "大观园", "余英时", "红学"]
 categories = ["honglou"]
 draft = false
@@ -19,11 +19,11 @@ description = "余英时关于红学研究的经典作品。"
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <figure style="flex: 1; min-width: 300px; height: 320px; margin: 0;">
     <img src="/img/rcd/dgy_0.jpg" alt="大观园图(局部) (清) 无名氏" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 0 10px #555; border-radius: 6px;" />
-    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园图(局部) (清) 无名氏</figcaption>
+    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园图(理想世界)</figcaption>
   </figure>
   <figure style="flex: 1; min-width: 300px; height: 320px; margin: 0;">
     <img src="/img/rcd/dgy_3.jpg" alt="大观园(上海)" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 0 10px #555; border-radius: 6px;" />
-    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园(上海)</figcaption>
+    <figcaption style="text-align: center; margin-top: 4px; color: #555;">大观园(现实世界)</figcaption>
   </figure>
 </div>
 
