@@ -78,10 +78,9 @@
 
 /* ── 引用块 ── */
 .article-content blockquote {
-  font-family: STKaiti, Helvetica, Arial, Verdana, Tahoma,
-    STFangsong, STXihei, "Songti SC", "Microsoft YaHei",
-    Heiti, sans-serif !important;
-  font-size: 17pt !important;
+  font-family: SimSun, STSong, "Songti SC", "Noto Serif CJK SC",
+    serif !important;
+  font-size: 80% !important;
   color: gray !important;
   border-left: none !important;
   padding: 0 0 0 1em !important;
@@ -92,10 +91,9 @@
 /* ── 诗句 ── */
 .article-content .verse,
 .article-content p.verse {
-  font-family: STKaiti, Helvetica, Arial, Verdana, Tahoma,
-    STFangsong, STXihei, "Songti SC", "Microsoft YaHei",
-    Heiti, sans-serif !important;
-  font-size: 17pt !important;
+  font-family: SimSun, STSong, "Songti SC", "Noto Serif CJK SC",
+    serif !important;
+  font-size: 80% !important;
   color: gray !important;
   margin-left: 3% !important;
 }
